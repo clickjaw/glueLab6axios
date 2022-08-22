@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+
+  background-color: lightyellow;
+  font-family: 'Silkscreen', cursive;
+}
+
+.pokeImage {
+  position: relative;
+  bottom: 2500px;
+  border: none;
+}
+
+.pokeName{
+    position: relative;
+    bottom:2300px;
+}
+
+.pokedexBody {
+background-color: red;
+border: none;
+
+}
+
+.cardBody{
+    border: none;
+}
+
+.screen{
+    width:400px;
+    height: 400px;
+    background-color: rgb(149, 196, 146);
+}
+
+
